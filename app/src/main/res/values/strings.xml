@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Projeto Calculo IMC</string>
+    <string name="text_input_main_activity">Qual sua altura?</string>
+    <string name="quanto_voce_pesa">Quanto você pesa?</string>
+    <string name="digite_o_para_casas_decimais">Considere digitar o \'.\' para casas decimais</string>
+</resources>
